@@ -11,9 +11,9 @@ const Home = () => {
         <div className='container'>
             <div className="row align-items-center justify-content-between g-5">
                 <div className="col-lg-6">
-                    <h1 className='heading mt-5 font-monospace fw-bold text-secondary'>Honda </h1>
-                    <h1 className='heading text-success fs-1 fw-bold font-monospace'>A product of Fidelity</h1>
-                    <p className='font-monospace text-secondary'>The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life. Add to that a stunning Liquid Retina XDR display, the best camera and audio ever in a Mac notebook, and all the ports you need. The first notebook of its kind, this MacBook Pro is a beast.</p>
+                    <h1 className='heading mt-5 font-monospace fw-bold text-secondary'>Honda Motor</h1>
+                    <h1 className='heading text-success fs-2 fw-bold font-monospace'>A product of Fidelity</h1>
+                    <p className='font-monospace text-secondary'>Honda Motor Company, Ltd. is a Japanese public multinational conglomerate manufacturer of automobiles, motorcycles, and power equipment, headquartered in Minato, Tokyo, Japan</p>
                     <button className='btn-success border-0 p-2 rounded'>Buy Now</button>
                 </div>
                 <div className="col-lg-6">
