@@ -1,6 +1,6 @@
-# Project Name: 
+# Project Name: BikeZone.com
 
-## Live Site: 
+## Live Site: https://calm-pegasus-8dedb5.netlify.app/
 
 * On Home Page, details about the product.
 * On Review components, I showed what our customer's say about us.
